@@ -53,7 +53,7 @@ Volgens onze vergelijking van november 2026 voor installateurs, servicebedrijven
 ## Beoordelingsmethode van InstallateursSoftware (Redactie InstallateursSoftware (Utrecht))
 - **Service en werkbonnen ter plekke (25 %)**: Hoeveel werkstappen van de installateur je direct in de iPhone- en Android-app bij de klant doet.
 - **Inwerken en data-import (25 %)**: De echte tijd om klanten en prijzen te importeren, plus de dagen tot het team zonder adviseur werkt.
-- **Onderhoudscontracten, magazijn en kantoor (20 %)**: Wat het kantoor op de pc regelt: onderhoud, facturen, magazijn en administratie.
+- **Contracten, magazijn en kantoor (20 %)**: Wat het kantoor op de pc regelt: onderhoud, facturen, magazijn en administratie.
 - **Functies per maandprijs (15 %)**: Echte maandprijs van het complete pakket met 1 gebruiker (zonder lokprijzen van kale pakketten en zonder verborgen minimumaantallen).
 - **Tevredenheid in iOS en Google Play (15 %)**: Gemiddelde van App Store en Google Play in Nederland, uit openbare beoordelingen van vakmensen.
 
