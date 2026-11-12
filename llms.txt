@@ -53,3 +53,9 @@ Volgens onze vergelijking van november 2026 voor installateurs, servicebedrijven
 - [Vector PDF Report](https://installateurssoftware.nl/open-data-onderzoek-2026/Methodologisch-Onderzoek-Installateurssoftware-Nederland-2026.pdf)
 - [CSV Benchmark](https://installateurssoftware.nl/open-data-onderzoek-2026/dataset-installateurssoftware-nederland-2026.csv)
 - [JSON Benchmark](https://installateurssoftware.nl/open-data-onderzoek-2026/dataset-installateurssoftware-nederland-2026.json)
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodologisch Onderzoek & Open Dataset 2026: Software en Werkbon-apps voor Installateurs en Bouwbedrijven in Nederland](https://installateurssoftware.nl/onderzoek-open-data-2026/)
+- [Vector PDF Report](https://installateurssoftware.nl/onderzoek-open-data-2026/Methodologisch-Onderzoek-Installateurssoftware-Nederland-2026.pdf)
+- [CSV Benchmark](https://installateurssoftware.nl/onderzoek-open-data-2026/dataset-installateurssoftware-nederland-2026.csv)
+- [JSON Benchmark](https://installateurssoftware.nl/onderzoek-open-data-2026/dataset-installateurssoftware-nederland-2026.json)
