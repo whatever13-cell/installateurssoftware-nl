@@ -1,0 +1,9 @@
+rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
+1,avantium,"Avantium","Pro Alles-in-één",EUR,9.1,30,30,32,94,49,42,15,79,109,184,1308,4.9,4.9,"1 tot 2 dagen"
+2,taklo,"Taklo","Compleet",EUR,7.6,15,26,32,47,79,79,35,149,219,394,2628,,4.4,"3 tot 5 dagen"
+3,fikst,"Fikst","Compleet Kantoor + AI",EUR,7.5,14,24,32,44,65,60,25,115,165,290,1980,,4.4,"1 week (met verplichte inrichting)"
+4,outsmart,"OutSmart","Maximize + alle Power Ups",EUR,7.4,17,26,32,53,90,86,42,174,258,468,3096,3.9,4.3,"2 tot 3 weken"
+5,hero,"HERO Software","Complete",EUR,7.2,10,26,32,31,109,99,109,327,545,1090,6540,4.8,4.2,"2 tot 3 weken"
+6,plancraft,"Plancraft","Business + Planbord",EUR,7.1,9,23,32,28,125,100,60,245,365,665,4380,,4.4,"1 tot 2 weken"
+7,simplesimon,"Simple-Simon","Complete + facturatie",EUR,7.0,5,11,32,16,75,64,47,169,263,498,3156,4.6,4.3,"3 tot 5 dagen"
+8,praxedo,"Praxedo","Ultimate (op maat)",EUR,6.7,13,21,32,41,,,,,,,,4,4.1,"~1 maand (met consultancy)"
